@@ -1,5 +1,5 @@
-# ignore created dataset 
 *.hdf5
+*.gif
 
 # ignore checkpoints folders
 checkpoints/*.pt
@@ -7,4 +7,3 @@ src/dataset_creation/model_chkpt/*.zip
 
 # directories
 local/
-wandb
